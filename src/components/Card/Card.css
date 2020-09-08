@@ -6,7 +6,6 @@
 }
 
 .container{
-    text-align: center;
     width: 250px;
     background-color:  #9eebcf;
     padding: 30px;
@@ -35,7 +34,7 @@
         width: 121px;
     }
     .container h2{
-        font-size: 0.9em;
+        text-align: left;
     }
     .container p{
         font-size: 0.7em;
@@ -52,9 +51,10 @@
         width: 120px;
     }
     .container h2{
-        font-size: 0.9em;
+        
+        font-size: 0.7em;
     }
     .container p{
-        font-size: 0.5em;
+        font-size: 0.3em;
     }
 }
